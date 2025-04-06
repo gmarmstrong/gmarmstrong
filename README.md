@@ -14,7 +14,7 @@ Platform engineer with experience building CI/CD pipelines, monitoring systems, 
 
 ## Resume
 
-View my full resume at [gmarmstrong.dev/resume.pdf](https://gmarmstrong.dev/resume.pdf) (or [in HTML](https://gmarmstrong.dev/resume/)).
+View my full resume at [gmarmstrong.dev/resume.pdf](https://gmarmstrong.dev/resume.pdf) (or [as HTML](https://gmarmstrong.dev/resume/)).
 
 ---
 
