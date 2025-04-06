@@ -1,7 +1,6 @@
 # Guthrie McAfee Armstrong
 
-[![Website](https://img.shields.io/badge/site-gmarmstrong.dev-blue?style=flat&logo=vercel)](https://gmarmstrong.dev)
-[![Resume](https://img.shields.io/badge/resume-pdf-blue?style=flat&logo=readthedocs)](https://gmarmstrong.dev/resume.pdf)
+[![Website](https://img.shields.io/badge/www-gmarmstrong.dev-blue?style=flat)](https://gmarmstrong.dev)
 
 Platform engineer with experience building CI/CD pipelines, monitoring systems, and well-architected cloud infrastructure.
 
@@ -15,7 +14,7 @@ Platform engineer with experience building CI/CD pipelines, monitoring systems, 
 
 ## Resume
 
-View my full resume at [gmarmstrong.dev/resume.pdf](https://gmarmstrong.dev/resume.pdf).
+View my full resume at [gmarmstrong.dev/resume.pdf](https://gmarmstrong.dev/resume.pdf) (or [in HTML](https://gmarmstrong.dev/resume/)).
 
 ---
 
