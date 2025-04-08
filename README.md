@@ -6,11 +6,14 @@ Platform engineer with experience building CI/CD pipelines, monitoring systems, 
 
 ## Tools I work with
 
-- **Infrastructure**: Terraform/OpenTofu, Docker, GitHub Actions  
-- **Cloud**: AWS (ECS, Lambda, IAM), some GCP  
-- **Monitoring & Access**: CloudWatch, PagerDuty, IAM Identity Center  
-- **Languages**: Python, Java, Kotlin, SQL
-- **Fun**: VimL, NixOS, Pandoc, shell scripting
+- **IaC & Automation**: Terraform/OpenTofu, Git, GitHub Actions
+- **Containers & Orchestration**: Docker, ECS
+- **Cloud Platforms**: Amazon Web Services (EC2, S3, IAM, VPC, Route53), Google Cloud Platform
+- **Monitoring**: CloudWatch, New Relic, PagerDuty
+- **Access Control**: IAM Identity Center (AWS SSO), OAuth, SAML
+- **Data & Pipelines**: PostgreSQL, Redshift, ELT workflows
+- **Languages**: Python, Java, Kotlin, SQL, Bash/shell scripting
+- **Fun**: VimL, NixOS, Pandoc, WeasyPrint, Hugo
 
 ## Resume
 
