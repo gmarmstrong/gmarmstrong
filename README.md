@@ -4,7 +4,7 @@
 
 Platform engineer with experience building CI/CD pipelines, monitoring systems, and well-architected cloud infrastructure.
 
-## Tools I work with
+## Skills
 
 - **IaC & Automation**: Terraform/OpenTofu, Git, GitHub Actions
 - **Containers & Orchestration**: Docker, ECS
